@@ -1,5 +1,5 @@
 # React Calc Input
-A [React](http://Reactjs.org) Component to make a calculator input behavior. Implementation of [readable-number.js](https://github.com/BosNaufal/readable-number)
+A [React](http://https://facebook.github.io/react/) Component to make a calculator input behavior. Implementation of [readable-number.js](https://github.com/BosNaufal/readable-number)
 
 
 #### [DEMO](https://rawgit.com/BosNaufal/react-calc-input/master/index.html)
