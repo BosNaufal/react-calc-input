@@ -1,0 +1,26 @@
+{
+  "name": "react-calc-input",
+  "version": "1.0.1",
+  "description": "A React Component to make a calculator input behavior",
+  "main": "src/react-calc-input.js",
+  "dependencies": {
+    "readable-number": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BosNaufal/react-calc-input.git"
+  },
+  "keywords": [
+    "reactjs",
+    "component",
+    "calculator",
+    "readable",
+    "number"
+  ],
+  "author": "Naufal Rabbani <bosnaufalemail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BosNaufal/react-calc-input/issues"
+  },
+  "homepage": "https://github.com/BosNaufal/react-calc-input#readme"
+}
