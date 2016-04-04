@@ -7,7 +7,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import readable from './readable-number.js';
+import readable from 'readable-number';
 
 
 let CalcInput = React.createClass({
